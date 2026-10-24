@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+extracted_images/
+doc_dump.txt
+inspect_doc.py
+test_shot.png
+app_screenshot_overview.png
+.vscode/
+.idea/
