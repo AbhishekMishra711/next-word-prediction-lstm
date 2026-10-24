@@ -7,3 +7,7 @@ test_shot.png
 app_screenshot_overview.png
 .vscode/
 .idea/
+
+$*
+~$*
+
